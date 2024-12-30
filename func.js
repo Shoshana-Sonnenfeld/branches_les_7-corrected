@@ -1,3 +1,5 @@
 const a=()=>{
-    return "happy chanuka"
+
+
+    alert("happy chanuka!")
 }
