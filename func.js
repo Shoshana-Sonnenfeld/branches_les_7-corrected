@@ -1,6 +1,7 @@
 const a=()=>{
-    alert("happy chanuka!")
-}
+    alert ("happy chanuka!!")
+}   
+
 
 const b=()=>{
     return 8
